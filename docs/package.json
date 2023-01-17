@@ -1,0 +1,19 @@
+{
+  "name": "antoinegrapperon.github.io",
+  "version": "0.0.1",
+  "description": "github page",
+  "main": "index.js",
+  "authors": {
+    "name": "Antoine Grapperon",
+    "email": "antoine.grapperon@gmail.com"
+  },
+  "repository": "antoinegrapperon.github.io/antoinegrapperon.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
